@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Cezar</h1>
 <h3 align="center">A passionate full stack developer from Romania</h3>
-
+<img align="right" alt="Coding" width="400" src="https://zapptelecom.ro/czr/main-photo.png">
 - 🔭 I’m currently working on this [Project](https://fepic.zappnet.ro/)
 
 - 🌱 I’m currently learning **Laravel**
