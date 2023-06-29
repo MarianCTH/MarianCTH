@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://zapptelecom.ro/czr/main-photo.png">
+<img alt="Coding" src="https://zapptelecom.ro/czr/main-photo.png">
 
 <h1 align="center">Hi , I'm Cezar</h1>
 <h3 align="center">A passionate full stack developer from Romania</h3>
